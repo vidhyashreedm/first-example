@@ -1,1 +1,3 @@
 Hello wlcome to git class !!!
+I am learning the git now
+I need to use this n my new company.
